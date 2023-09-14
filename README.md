@@ -7,6 +7,7 @@ My projects reflect my journey from cosmology to data science
 #### Data Science Projects
 
 - Domestic power usage prediction
+      - A comparison between ARIMA, SARIMA and LSTM
 - Image recognition using Convolutional Neural Network
 - Heart-Check
 
