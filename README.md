@@ -6,11 +6,15 @@ My projects reflect my journey from cosmology to data science
 
 #### Data Science Projects
 
+- Gen AI and LLM
+  - Gather insights from customer reviews using ChatGPT: Notebook
+  - Fine-tune the FLAN-T5 model with reinforcement learning: [Notebooks](https://github.com/arindam-mazumdar/GenAI_with_LLM)
+    
+- <a href='https://github.com/arindam-mazumdar/image_classifiaction_cnn'> Image recognition using Convolutional Neural Network </a>
+- <a href='https://github.com/arindam-mazumdar/heart-check'>Heart-Check</a>
+  - A <a href='https://heart-check-cdc.herokuapp.com/'>flask app</a> that calculates the risk of heart attack from one's daily habits.
 - Domestic power usage prediction
   - A comparison between ARIMA, SARIMA and LSTM
-- Image recognition using Convolutional Neural Network
-- Heart-Check
-
 
 #### Cosmology
 
