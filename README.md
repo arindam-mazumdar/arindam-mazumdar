@@ -7,7 +7,7 @@ My projects reflect my journey from cosmology to data science
 #### Data Science Projects
 
 - Gen AI and LLM
-  - Gather insights from customer reviews using ChatGPT: Notebook
+  - Gather insights from customer reviews using ChatGPT: [Notebook](https://github.com/arindam-mazumdar/chatgpt_review_analysis)
   - Fine-tune the FLAN-T5 model with reinforcement learning: [Notebooks](https://github.com/arindam-mazumdar/GenAI_with_LLM)
     
 - <a href='https://github.com/arindam-mazumdar/image_classifiaction_cnn'> Image recognition using Convolutional Neural Network </a>
